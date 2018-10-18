@@ -1,6 +1,6 @@
 | Math | ComputerScience | Music |
 |------|-----------------|-------|
-|logic|||
+|logic|极客时间||
 |set theory|||
 
 
