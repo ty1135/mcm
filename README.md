@@ -1,11 +1,8 @@
 | Math | ComputerScience | Music |
 |------|-----------------|-------|
-|logic|极客时间||
-|set theory|||
-
-
-
-
+|!logic|极客时间||
+|!set theory|||
+|khan|||
 
 
 ###
